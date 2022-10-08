@@ -16,6 +16,7 @@ const appRoutes:Routes=[
     path:"search",component:SearchemployeeComponent
   }
 ]
+
 @NgModule({
   declarations: [
     AppComponent,
